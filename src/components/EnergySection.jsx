@@ -1,3 +1,6 @@
+import { Link } from 'react-router-dom';
+import Energizing from '../pages/Energizing';
+
 const EnergySection = () => {
   return (
     <section className="py-20 px-6 md:px-0 bg-white">
@@ -27,7 +30,7 @@ const EnergySection = () => {
             energy independence and creates a more sustainable future.
           </p>
           <button className="border border-black rounded-full px-6 py-3 font-medium flex items-center gap-2 hover:bg-black hover:text-white transition">
-            Read More
+            <Link to='/Energizing'>Read more</Link>
             <span className="text-xl">→</span>
           </button>
         </div>

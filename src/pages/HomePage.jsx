@@ -5,8 +5,9 @@ import AboutSection from "../components/AboutSection";
 import FortuneHighlightsSection from "../components/FortuneHighlightsSection";
 import CardSection from '../components/CardSection';
 import SustainabilitySection from "../components/SustainabilitySection";
-{/* Kalo ada tambahan isi disini */}
+import InvestorContent from '../components/InvestorContent';
 import Footer from '../components/Footer';
+import InvestorHero from '../components/InvestorHero';
 
 const HomePage = () => {
   return (
@@ -17,8 +18,9 @@ const HomePage = () => {
       <AboutSection />
       <FortuneHighlightsSection />
       <CardSection />
+      <InvestorContent/>
+      <InvestorHero/>
       <SustainabilitySection />
-      {/* Ini juga kalo ada tambahan isi disini */}
       <Footer />
     </>
   );
