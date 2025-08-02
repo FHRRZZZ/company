@@ -7,6 +7,8 @@ import CardSection from '../components/CardSection';
 import SustainabilitySection from "../components/SustainabilitySection";
 import InvestorContent from '../components/InvestorContent';
 import Footer from '../components/Footer';
+import FlipCard from '../components/FlipCard';
+import FlipSection from '../components/FlipSection';
 import InvestorHero from '../components/InvestorHero';
 
 const HomePage = () => {
@@ -21,6 +23,7 @@ const HomePage = () => {
       <InvestorContent/>
       <InvestorHero/>
       <SustainabilitySection />
+      <FlipSection/>
       <Footer />
     </>
   );

@@ -62,7 +62,7 @@ const InvestorContent = () => {
             >
               <ChevronRight />
             </button>
-          </div>
+          </div>=
 
           {/* Kartu horizontal scroll */}
           <div
