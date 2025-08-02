@@ -1,16 +1,39 @@
-// TimelineData.js
 const timelineData = [
   {
     year: "1957 - 1967",
     title: "The Journey 1957–1967",
-    content: `History records that Pertamina's existence was built since...`,
-    image: "/images/timeline-1957.jpg" 
+    content: ``,
+    image: "" 
   },
   {
     year: "1968 - 1977",
     title: "The Journey 1968–1977",
-    content: `Lorem ipsum dolor sit amet...`,
-    image: "/images/timeline-1968.jpg"
+    content: ``,
+    image: ""
+  },
+  {
+    year: "1978 - 1987",
+    title: "The Journey 1978–1987",
+    content: ``,
+    image: ""
+  },
+  {
+    year: "1988 - 1997",
+    title: "The Journey 1988–1997",
+    content: ``,
+    image: ""
+  },
+  {
+    year: "1998 - 2007",
+    title: "The Journey 1998–2007",
+    content: ``,
+    image: ""
+  },
+  {
+    year: "2007 - 2003",
+    title: "The Journey 2007–2023",
+    content: ``,
+    image: ""
   },
 ];
 
