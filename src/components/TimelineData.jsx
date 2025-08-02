@@ -37,4 +37,6 @@ const timelineData = [
   },
 ];
 
+// Kalo mau liat bagian ini ada di pages/NextAbout trus di halaman buttonya ada di AboutSection
+
 export default timelineData;
