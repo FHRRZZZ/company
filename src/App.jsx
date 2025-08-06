@@ -6,6 +6,7 @@ import InvestorPage from './pages/InvestorPage';
 import ScrollToTop from './components/ScrollToTop';
 import Energizing from './pages/Energizing';
 import NextAbout from './pages/NextAbout';
+import Sustainability from './pages/Sustainability';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Route path="/investorpage" element={<InvestorPage />} />
         <Route path='/Energizing' element={<Energizing/>}/>
         <Route path="/nextabout" element={<NextAbout />} />
+        <Route path='Sustainability' element={<Sustainability/>}></Route>
       </Routes>
       
     </Router>

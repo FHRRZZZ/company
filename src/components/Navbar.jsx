@@ -53,7 +53,7 @@ const Navbar = () => {
             </a>
           </li>
           <li>
-            <a href="#" className="hover:text-red-500 transition">
+            <a href="/Sustainability" className="hover:text-red-500 transition">
               Sustainability
             </a>
           </li>

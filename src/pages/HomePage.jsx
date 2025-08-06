@@ -10,6 +10,7 @@ import Footer from '../components/Footer';
 import FlipCard from '../components/FlipCard';
 import FlipSection from '../components/FlipSection';
 import InvestorHero from '../components/InvestorHero';
+import Ceo from '../components/CeoCakep';
 
 const HomePage = () => {
   return (
@@ -24,6 +25,7 @@ const HomePage = () => {
       <InvestorHero/>
       <SustainabilitySection />
       <FlipSection/>
+      <Ceo/>
       <Footer />
     </>
   );
