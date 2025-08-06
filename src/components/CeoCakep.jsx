@@ -5,7 +5,7 @@ function Ceo() {
     <div className="min-h-screen bg-white flex items-start px-10 py-16 gap-16">
       <img
         src="/public/assets/ChatGPT Image 6 Agu 2025, 14.00.25.png"
-        alt="Simon Aloysius Mantiri"
+        alt=""
         className="w-[350px] object-contain"
       />
       <div className="max-w-3xl">
